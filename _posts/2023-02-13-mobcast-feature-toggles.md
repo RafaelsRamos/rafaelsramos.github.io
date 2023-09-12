@@ -1,5 +1,5 @@
 ---
-title: MOBCAST&#58 Feature Toggles
+title: MOBCAST&#58; Feature Toggles
 tags: [Android,Farfetch]
 style: fill
 color: primary
