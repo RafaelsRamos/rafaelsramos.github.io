@@ -20,6 +20,8 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - documentation/partials/**
+  - documentation/**
 
 ### Author Info ###
 author:
