@@ -1,17 +1,44 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Android Engineer, Farfetch
+  from: 2021
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As an Android Engineer at Farfetch, I maintain and develop new features for the [Farfetch App](https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US&pli=1).
+               My role encompasses a wide array of responsibilities, including&#58;
+               - Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;
+               - Planning of feature implementations and architectural decisions in advance, with the aim of optimizing development efficiency and ensuring top-notch product quality;
+               - To streamline our workflow, I employ effective task division strategies, breaking down complex projects into manageable components to enhance collaboration and facilitate progress tracking;
+               Additionally, I developed custom tools using both Kotlin and JavaScript, to augment the overall productivity and improve output quality of the Mobile cluster (Android and IOS).
+
+- title: Android Engineer, ITSector
+  from: 2020
+  to: 2021
+  description: As an Android Engineer at ITSector, I worked in the development and maintenance 
+               of two major banking applications - [ActivoBank](https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.activoBank) and [Millennium BCP](https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.millennium).
+               My responsibilities included ensuring the seamless operation of these platforms by employing clean, modular, and robust coding practices.
+               Collaborated closely with designers and product managers and contributed to the delivery of a sophisticated and reliable product that met the demands of the financial sector.
+               This experience refined my ability to work in cross-functional teams to achieve complex project goals.
+
+- title: Software Engineer, Neroes
+  from: 2018
+  to: 2022
+  description: As a dedicated software developer at Neroes. Using Unity, I created an engaging and immersive gameplay environment.
+               Additionally, I worked on the integration of a Physical EEG device through the development of robust APIs in C#. This allowed users to interact with the game using their own brain-wave patterns.
+               This project was further recognized with the award of an IAPMEI Scholarship.
+               This job not only helped improve my technical skills but also sharpened my collaborative spirit in a dynamic startup environment.
+
+- title: Software Engineer, EmotAI
+  from: 2017
+  to: 2019
+  description: During my time at EmotAI, I contributed to a range of innovative projects.
+               My primary responsibilities included developing an API that facilitated the connection of an EEG device to Android smartphones,
+               enabling real-time brain activity monitoring during meditation sessions through a dedicated Android app.
+               Additionally, I developed an API designed for extracting data from video games.
+
+- title: Internship, University College of London
+  from: 2016
+  to:
+  description: Contributed to the development of [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/) toolbox.
+
+- title: Student, University of Lisbon
+  from: 2013
+  to: 2019
+  description: Graduated in **Biomedical and Biophysical Engineering**, with a dissertation entitled "Development of a Mobile Platform for Physiological Computing Application" (19/20).
