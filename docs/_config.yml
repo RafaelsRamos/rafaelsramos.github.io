@@ -1,13 +1,13 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Rafael Ramos
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Transforming caffeine into code, 
+                      a clean-code aficionado, and production's best friend.
+                      Constantly creating seamless user experiences!
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : rafaelsramos.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -25,24 +25,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Rafael Ramos
+  image             : https://i.imgur.com/C3zckCx.jpg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : Rafaelsramos95@gmail.com
+# facebook          : your_username
+  github            : Rafaelsramos
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : rafa-ramos
+  medium            : Rafaelsramos
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
