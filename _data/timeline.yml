@@ -1,17 +1,22 @@
 - title: Android Engineer, Farfetch
   period: 2021 - present
-  description: As an Android Engineer at Farfetch, I maintain and develop new features for the [Farfetch App](https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US&pli=1).
+  description: As an Android Engineer at Farfetch, I maintain and develop new features for the <a href="https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US&pli=1">Farfetch App</a>.
                My role encompasses a wide array of responsibilities, including&#58;
+               <ol>
+               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
+               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
+               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
+               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
+               </ol>
                - Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;
                - Planning of feature implementations and architectural decisions in advance, with the aim of optimizing development efficiency and ensuring top-notch product quality;
                - To streamline our workflow, I employ effective task division strategies, breaking down complex projects into manageable components to enhance collaboration and facilitate progress tracking;
                Additionally, I developed custom tools using both Kotlin and JavaScript, to augment the overall productivity and improve output quality of the Mobile cluster (Android and IOS).
-               <a href="https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US&pli=1">click here</a>
 
 - title: Android Engineer, ITSector
   period: 2020 - 2021
   description: As an Android Engineer at ITSector, I worked in the development and maintenance 
-               of two major banking applications - [ActivoBank](https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.activoBank) and [Millennium BCP](https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.millennium).
+               of two major banking applications - <a href="https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.activoBank">ActivoBank</a> and  <a href="https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.millennium">Millennium BCP</a>.
                My responsibilities included ensuring the seamless operation of these platforms by employing clean, modular, and robust coding practices.
                Collaborated closely with designers and product managers and contributed to the delivery of a sophisticated and reliable product that met the demands of the financial sector.
                This experience refined my ability to work in cross-functional teams to achieve complex project goals.
@@ -32,8 +37,8 @@
 
 - title: Internship, University College of London
   period: 2016
-  description: Contributed to the development of [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/) toolbox.
+  description: Contributed to the development of <a href="http://www.mlnl.cs.ucl.ac.uk/pronto/">PRoNTo</a> toolbox.
 
 - title: Student, University of Lisbon
   period: 2013 - 2019
-  description: Graduated in **Biomedical and Biophysical Engineering**, with a dissertation entitled "Development of a Mobile Platform for Physiological Computing Application" (19/20).
+  description: Graduated in <b>Biomedical and Biophysical Engineering</b>, with a dissertation entitled "Development of a Mobile Platform for Physiological Computing Application" (19/20).
