@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
+- name: Clean Code
+  percentage: 95
+  color: warning
+
+- name: Kotlin
   percentage: 90
+  color: success
+
+- name: Java
+  percentage: 75
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
-
-- name: Python
-  percentage: 70
+- name: C#
+  percentage: 60
   color: secondary
+
+- name: JavaScript
+  percentage: 60
+  color: info
