@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Documentation skills
+  percentage: 85
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: App Scripts
+  percentage: 70
   color: success
+
+- name: Padel
+  percentage: 100
+  color: light
