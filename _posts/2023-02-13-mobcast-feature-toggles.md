@@ -1,6 +1,6 @@
 ---
 title: MOBCAST - Feature Toggles
-tags: [Android,Offerzen,Software Engineering]
+tags: [Android,Software Engineering]
 style: fill
 color: primary
 description: It is important to understand and fill knowledge gaps around missing software principles.
