@@ -3,7 +3,7 @@ title: MOBCAST - Feature Toggles
 tags: [Android,Software Engineering]
 style: fill
 color: primary
-description: It is important to understand and fill knowledge gaps around missing software principles.
+description: Conciliating large developments with short-release cycles might not seem easy, but it can be! watch our Mobcast Episode on Feature Toggles.
 external_url: https://offerzen.ghost.io/self-taught-developer-learning-resources/
 ---
 
