@@ -3,15 +3,11 @@
   description: As an Android Engineer at Farfetch, I maintain and develop new features for the <a href="https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US&pli=1">Farfetch App</a>.
                My role encompasses a wide array of responsibilities, including&#58;
                <ol>
-               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
-               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
-               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
-               <li>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</li>
+               <ul>Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;</ul>
+               <ul>Planning of feature implementations and architectural decisions in advance, with the aim of optimizing development efficiency and ensuring top-notch product quality;</ul>
+               <ul>To streamline our workflow, I employed effective task division strategies, breaking down complex projects into manageable components to enhance collaboration and facilitate progress tracking;</ul>
+               <ul>Developed custom tools using both Kotlin and JavaScript, to augment the overall productivity and improve output quality of the Mobile cluster (Android and IOS).</ul>
                </ol>
-               - Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;
-               - Planning of feature implementations and architectural decisions in advance, with the aim of optimizing development efficiency and ensuring top-notch product quality;
-               - To streamline our workflow, I employ effective task division strategies, breaking down complex projects into manageable components to enhance collaboration and facilitate progress tracking;
-               Additionally, I developed custom tools using both Kotlin and JavaScript, to augment the overall productivity and improve output quality of the Mobile cluster (Android and IOS).
 
 - title: Android Engineer, ITSector
   period: 2020 - 2021
@@ -21,14 +17,14 @@
                Collaborated closely with designers and product managers and contributed to the delivery of a sophisticated and reliable product that met the demands of the financial sector.
                This experience refined my ability to work in cross-functional teams to achieve complex project goals.
 
-- title: Software Engineer, Neroes
+- title: Software Engineer, Neroes (Extracurricular)
   period: 2018 - 2022
   description: As a dedicated software developer at Neroes. Using Unity, I created an engaging and immersive gameplay environment.
-               Additionally, I worked on the integration of a Physical EEG device through the development of robust APIs in C#. This allowed users to interact with the game using their own brain-wave patterns.
+               Additionally, I worked on the integration of a Physical EEG device through the development of APIs in C#. This allowed users to interact with the game using their own brain-wave patterns.
                This project was further recognized with the award of an IAPMEI Scholarship.
                This job not only helped improve my technical skills but also sharpened my collaborative spirit in a dynamic startup environment.
 
-- title: Software Engineer, EmotAI
+- title: Software Engineer, EmotAI (Extracurricular)
   period: 2017 - 2019
   description: During my time at EmotAI, I contributed to a range of innovative projects.
                My primary responsibilities included developing an API that facilitated the connection of an EEG device to Android smartphones,
