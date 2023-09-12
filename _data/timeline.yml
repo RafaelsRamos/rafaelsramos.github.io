@@ -1,6 +1,5 @@
 - title: Android Engineer, Farfetch
-  from: 2021
-  to: present
+  period: 2021 - present
   description: As an Android Engineer at Farfetch, I maintain and develop new features for the [Farfetch App](https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US&pli=1).
                My role encompasses a wide array of responsibilities, including&#58;
                - Development of new features, maintenance, and the pursuit of exceptional user experiences in collaboration with our Design and Product teams;
@@ -9,8 +8,7 @@
                Additionally, I developed custom tools using both Kotlin and JavaScript, to augment the overall productivity and improve output quality of the Mobile cluster (Android and IOS).
 
 - title: Android Engineer, ITSector
-  from: 2020
-  to: 2021
+  period: 2020 - 2021
   description: As an Android Engineer at ITSector, I worked in the development and maintenance 
                of two major banking applications - [ActivoBank](https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.activoBank) and [Millennium BCP](https://play.google.com/store/apps/details?id=wit.android.bcpBankingApp.millennium).
                My responsibilities included ensuring the seamless operation of these platforms by employing clean, modular, and robust coding practices.
@@ -18,27 +16,23 @@
                This experience refined my ability to work in cross-functional teams to achieve complex project goals.
 
 - title: Software Engineer, Neroes
-  from: 2018
-  to: 2022
+  period: 2018 - 2022
   description: As a dedicated software developer at Neroes. Using Unity, I created an engaging and immersive gameplay environment.
                Additionally, I worked on the integration of a Physical EEG device through the development of robust APIs in C#. This allowed users to interact with the game using their own brain-wave patterns.
                This project was further recognized with the award of an IAPMEI Scholarship.
                This job not only helped improve my technical skills but also sharpened my collaborative spirit in a dynamic startup environment.
 
 - title: Software Engineer, EmotAI
-  from: 2017
-  to: 2019
+  period: 2017 - 2019
   description: During my time at EmotAI, I contributed to a range of innovative projects.
                My primary responsibilities included developing an API that facilitated the connection of an EEG device to Android smartphones,
                enabling real-time brain activity monitoring during meditation sessions through a dedicated Android app.
                Additionally, I developed an API designed for extracting data from video games.
 
 - title: Internship, University College of London
-  from: 2016
-  to:
+  period: 2016 - 2017
   description: Contributed to the development of [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/) toolbox.
 
 - title: Student, University of Lisbon
-  from: 2013
-  to: 2019
+  period: 2013 - 2019
   description: Graduated in **Biomedical and Biophysical Engineering**, with a dissertation entitled "Development of a Mobile Platform for Physiological Computing Application" (19/20).
