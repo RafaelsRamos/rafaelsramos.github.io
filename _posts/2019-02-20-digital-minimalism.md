@@ -1,5 +1,5 @@
 ---
-title: Digital Minimalism
+title: Digital Minimalism 2.0 R
 tags: [Social Media, Minimalism, Technology]
 style: 
 color: 
