@@ -7,8 +7,11 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+##### Hi I am **{{ site.author.name }}** :wave:<br>
+Android Engineer with more than 5 years of experience in Android Development.<br>
+I love helping others and keeping up to speed on new developments in the industry.<br>
+I have a track record of creating tools to help teams improve both their efficiency and output quality.<br>
+I love traveling ✈️, eating good food, and playing sports, like Padel or Tennis 🎾
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
