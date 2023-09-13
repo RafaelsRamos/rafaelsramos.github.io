@@ -40,9 +40,7 @@ Added new flag for sensitive fields - android:accessibilityDataSensitive=‚Äùyes‚
 
 Added new sign-in method Passkeys.
 
-
-<video src="https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD" controls="controls" style="max-width: 730px;"></video>
-[![Now In Android](https://www.youtube.com/watch?v=qXhjN66O7Bk.png)](https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD)
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/hqdefault.jpg)](https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD)
 
 
 ### Activity Embedding
