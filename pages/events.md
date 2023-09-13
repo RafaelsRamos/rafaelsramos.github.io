@@ -5,7 +5,7 @@ permalink: /events/
 weight: 4
 ---
 
-# **Events**
+# ✨ **Events**
 
 I consider it essential to participate in work-related events, for several reasons:<br>
 1. They provide a direct avenue to stay updated with industry trends.
