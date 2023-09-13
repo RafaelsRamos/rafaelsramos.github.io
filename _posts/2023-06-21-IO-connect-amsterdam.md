@@ -15,85 +15,90 @@ It serves as a platform for developers to gain a deeper understanding of Google 
 
 The conference aims to empower attendees to enhance their skills, expand their knowledge of Google's offerings, and build innovative solutions using Google's platforms and services. It offers a unique opportunity to interact with like-minded professionals, network with industry experts, and gain valuable insights into the future of Google's technology ecosystem.
 
+<br/>
+
 # 🔎 Google I/O 2023 dissection
 
 As previously mentioned, this conference’s main objective is to bring developers up to speed on the announcements of [Google I/O 2023](https://io.google/2023/).
 For that reason, it was crucial to dissect it, in order to take the most out of this conference.
 
+<br/>
 
-## 🖌 New UI Page design
+### 🖌 New UI Page design
 
 New UI page design guide, to help designers transition to Large Screen - https://developer.android.com/design/ui
 
+<br/>
 
-## :accessibility: Accessibility
+### :accessibility: Accessibility
 
 
-### Increased supported font-size
+#### Increased supported font-size
 
 Android 14 will allow users to increase font size to 200%
 
 
-### Introduction of a new security flag
+#### Introduction of a new security flag
 
 Added new flag for sensitive fields - android:accessibilityDataSensitive=”yes” - To not allow screen readers to have access to sensitive fields/buttons;
 
 
-## Now In Android
+
+### Now In Android
 
 
-### Passkeys
+
+#### Passkeys
 
 Added new sign-in method Passkeys.
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD)
 
+<br/>
 
-
-### Activity Embedding
+#### Activity Embedding
 
 Activity embedding looks promising;
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxjIS5rPgk-WJ40dx3OJaaA8CZ9EPcQh_P)
 
+<br/>
 
-
-### Gradle upgrades
+#### Gradle upgrades
 
 Gradle upgrades that decrease project build time;
 
+<br/>
 
-
-### [Large Screens - Letterboxing](#-now-in-android-letterboxing)
+#### Large Screens - Letterboxing
 
 Large Screen in Android 14+ will no longer support Portaint-only apps
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxi1Ncg-c2ZNw0cETbprEHja9Vy0ftC-jd)
 
-   
+<br/>
 
-### Large Screens - Camera/Foldable
+#### Large Screens - Camera/Foldable
 
 Folding in or out a foldable device while using the camera can lead to issues.
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxO8T4EUh06zk5eIwGi0-FMafucHr9SNes)
 
+<br/>
+
+### Building for Android’s Future
 
 
-## Building for Android’s Future
 
-
-
-### Predictive Back
+#### Predictive Back
 
 Added new feature. It can be interesting to use instead of the “Leave the App confirmation dialog”;
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxv27KASvtccpj1vSiPh4hvRru-Efy0i_l)
 
+<br/>
 
-
-
-### Themed Icons
+#### Themed Icons
 
 Support for themed App Icons that adjust according to device’s Theme;
 
@@ -101,13 +106,13 @@ Support for themed App Icons that adjust according to device’s Theme;
 
  
 
-### Grammatical Inflection AKA Gendered Grammatic
+#### Grammatical Inflection AKA Gendered Grammatic
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxvyjds-3bmlnu9D5k9gIIQ5Om2GWeJQ_N)
 
  
 
-### App Action - Google Assistant
+#### App Action - Google Assistant
 
 App Actions could be used for more complete integration with Google Assistant;
 
@@ -115,19 +120,19 @@ App Actions could be used for more complete integration with Google Assistant;
 
 
 
-### Kotlin 2.0 Compiler
+#### Kotlin 2.0 Compiler
 
 Kotlin compiler can decrease significantly build time;
 
 [![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxu6V0SyXvxvEh2nSBmzlXlSeFEQdoRsgz)
 
  
+<br/>
+
+## 📰 Google I/O 2023 Connect Report
 
 
-# 📰 Google I/O 2023 Connect Report
-
-
-## Large Screens
+### Large Screens
 
 Google’s mobile product seems to be giving more and more light over Large Screens devices (Foldables + Tablets) Why?
 - Foldable Screens are reaching good quality levels;
@@ -139,9 +144,9 @@ Google’s mobile product seems to be giving more and more light over Large Scre
 
 
 
-## Letterboxing
+### Letterboxing
 
-It was mentioned in the [Now in Android](#-now-in-android-letterboxing) section, that from Android 14+ it will no longer be possible to force Apps to be used in Portrait or Landscape only more for Large screen devices (Foldables + Tablets) without being letterboxed.
+It was mentioned in the Latterboxing section, that from Android 14+ it will no longer be possible to force Apps to be used in Portrait or Landscape only more for Large screen devices (Foldables + Tablets) without being letterboxed.
 
 ![App being letterboxed](https://developer.android.com/static/images/guide/topics/large-screens/app-compatibility/enhanced_letterboxing.png)
 
@@ -151,7 +156,7 @@ Because this is an experience-breaking change, this topic was discussed at lengt
 
 
 
-## Camera/Foldable Opening
+### Camera/Foldable Opening
 
 In Foldables with Android 14+ there is a new Camera-related concern, that was described in the Large Screens - Camera/Foldable section. This issue is due to Hardware - Google tried to patch it, but unsuccessfully;
 
@@ -159,7 +164,7 @@ To deal with this issue, Google created 2 Support Libraries - [CameraX](https://
 
 
 
-## Activity side-by-size (AKA Embedded Activities)
+### Activity side-by-size (AKA Embedded Activities)
 
 The usefulness of this feature can be debated at first because communication between these activities would be limited - thus it would possibly be better to have adjacent fragments;
 
@@ -168,19 +173,22 @@ A possible use case the Googler provided was embedding activities from other pro
 - A Job searching company - The users can see an open job in the Job searching App side-by-side with Google Maps, to evaluate the commute that he/she would have to do if working that specific job;
 
 
-## AI
+
+### AI
 
 Google is eager to push its AI into the market - opened an acceleration program for AI companies that use BardAI.
 
 AI will be integrated into multiple Google tools and services - e.g. Google Assistant, Google Search, etc.
 
-## Accessibility
+
+
+### Accessibility
 
 A lot of emphasis was placed on Accessibility - **Talk Back** (Android’s Screen reader for visually impaired users), **Accessibility Scanner** (Google App that can be used to scan Apps, to check for Accessibility-related improvements.), etc.
 
 
 
-## Compose
+### Compose
 
 - A lot of new Jetpack Compose features and SDKs:
 - CameraX SDK (for Foldables Support);
@@ -191,27 +199,27 @@ A lot of effort is being placed into Compose.
 
 
 
-## Widgets
+### Widgets
 
 - New Widget library for Compose.
 - Devs report having a lot of pain points when building complex Widgets.
 
 
 
-## Cross-device experiences
+### Cross-device experiences
 
 A new SDK was launched to make it easier to share experiences between nearby devices.
 
 
 
-### Tracking
+#### Tracking
 
 Tracking is an issue in almost every software. After lengthy discussions with a few Googlers, it seems like tracking is a huge pain for everyone.
 I don’t think there is a Utopian approach where we have clean tracking. All one can do is analyze it in depth and improve where we can.
 
+<br/>
 
-
-# Others
+## Others
 
 - Themed icons are easy wins, companies are implementing them;
-- Related to Google’s team’s structure/environment - Discussed the company’s values, and conversations moved towards the great read the following [this article](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?smid=wa-share).
+- Related to Google’s team’s structure/environment - Discussed the company’s values, and conversations moved towards [this great read](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?smid=wa-share).
