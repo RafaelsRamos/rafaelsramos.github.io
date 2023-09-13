@@ -1,6 +1,6 @@
 ---
 title: Learning Data Representation and Emotion Assessment from Physiological Data
-tags: 
+tags: [Scientific Paper,AI]
 style: fill
 color: success
 description: A scientific study that employs deep learning on physiological data to understand human emotions.
