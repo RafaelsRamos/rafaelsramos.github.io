@@ -10,13 +10,13 @@
     height: 100%;
     background-color: $primary;
     position: absolute;
-    right: -4px;
+    left: -4px;
     top: 0;
   }
 
   .event-item {
     position: relative;
-    
+
     &:after {
       // Circle
       content: "";
@@ -26,14 +26,14 @@
       border: 4px solid $primary;
       background-color: $light;
       position: absolute;
-      right: -12px;
+      left: -12px;
       top: 8px;
       z-index: 10;
     }
 
     .content {
       margin: 40px;
-      padding-bottom: 5px;
+      padding-bottom: 2px;
       border-bottom: 1px dashed $dark;
 
       .date {
