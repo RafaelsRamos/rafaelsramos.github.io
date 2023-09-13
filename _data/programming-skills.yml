@@ -10,6 +10,10 @@
   percentage: 75
   color: danger
 
+- name: Jetpack Compose
+  percentage: 70
+  color: primary
+
 - name: C#
   percentage: 60
   color: secondary
