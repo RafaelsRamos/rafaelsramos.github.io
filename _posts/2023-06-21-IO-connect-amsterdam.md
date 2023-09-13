@@ -20,36 +20,43 @@ The conference aims to empower attendees to enhance their skills, expand their k
 As previously mentioned, this conference’s main objective is to bring developers up to speed on the announcements of [Google I/O 2023](https://io.google/2023/).
 For that reason, it was crucial to dissect it, in order to take the most out of this conference.
 
-## New UI Page design
 
-New UI page design guide, to help designers transition to Large Screen - https://developer.android.com/design/ui  
+## 🖌 New UI Page design
 
-## Accessibility
+New UI page design guide, to help designers transition to Large Screen - https://developer.android.com/design/ui
+
+
+## :accessibility: Accessibility
+
 
 ### Increased supported font-size
 
 Android 14 will allow users to increase font size to 200%
 
+
 ### Introduction of a new security flag
 
 Added new flag for sensitive fields - android:accessibilityDataSensitive=”yes” - To not allow screen readers to have access to sensitive fields/buttons;
 
+
 ## Now In Android
+
 
 ### Passkeys
 
 Added new sign-in method Passkeys.
 
-[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/hqdefault.jpg)](https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD)
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD)
+
 
 
 ### Activity Embedding
 
 Activity embedding looks promising;
 
-https://www.youtube.com/clip/UgkxjIS5rPgk-WJ40dx3OJaaA8CZ9EPcQh_P
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxjIS5rPgk-WJ40dx3OJaaA8CZ9EPcQh_P)
 
- 
+
 
 ### Gradle upgrades
 
@@ -57,11 +64,11 @@ Gradle upgrades that decrease project build time;
 
 
 
-### Large Screens - Letterboxing
+### [Large Screens - Letterboxing](#-now-in-android-letterboxing)
 
 Large Screen in Android 14+ will no longer support Portaint-only apps
 
-
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxi1Ncg-c2ZNw0cETbprEHja9Vy0ftC-jd)
 
    
 
@@ -69,7 +76,7 @@ Large Screen in Android 14+ will no longer support Portaint-only apps
 
 Folding in or out a foldable device while using the camera can lead to issues.
 
-
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxO8T4EUh06zk5eIwGi0-FMafucHr9SNes)
 
 
 
@@ -81,6 +88,7 @@ Folding in or out a foldable device while using the camera can lead to issues.
 
 Added new feature. It can be interesting to use instead of the “Leave the App confirmation dialog”;
 
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxv27KASvtccpj1vSiPh4hvRru-Efy0i_l)
 
 
 
@@ -89,126 +97,121 @@ Added new feature. It can be interesting to use instead of the “Leave the App 
 
 Support for themed App Icons that adjust according to device’s Theme;
 
-
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/UgkxYszZBOxN2xyvY7u-CAO-xGN4aZcSHvez)
 
  
 
 ### Grammatical Inflection AKA Gendered Grammatic
 
-
-
- 
-
-App Action - Google Assistant
-
-We could potentially use App Actions for more complete integration with Google Assistant;
-
-
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxvyjds-3bmlnu9D5k9gIIQ5Om2GWeJQ_N)
 
  
 
-Kotlin 2.0 Compiler
+### App Action - Google Assistant
+
+App Actions could be used for more complete integration with Google Assistant;
+
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxc70V257yQSgoczeJ8Uff45QvU64_OsQP)
+
+
+
+### Kotlin 2.0 Compiler
 
 Kotlin compiler can decrease significantly build time;
 
-
+[![Now In Android](https://img.youtube.com/vi/qXhjN66O7Bk/maxresdefault.jpg)](https://www.youtube.com/clip/Ugkxu6V0SyXvxvEh2nSBmzlXlSeFEQdoRsgz)
 
  
 
- Google I/O 2023 Connect Report
 
-Large Screens
-
-Google’s mobile product seems to be shifting towards Large Screens (Foldables + Tablets) Why?
-
-Foldable Screens are reaching good quality levels;
-
-Tablets and Foldables are becoming more popular;
-
-Most companies - such as ourselves - focus on a Portain experience, neglecting this growing market;
-
-With the increase of the Large Screen market cap, it is a great opportunity for Apps to take advantage of the possibility of a more complete experience due to the increased screen size; e.g. Gmail (image below);
+# 📰 Google I/O 2023 Connect Report
 
 
+## Large Screens
 
-Letterboxing
+Google’s mobile product seems to be giving more and more light over Large Screens devices (Foldables + Tablets) Why?
+- Foldable Screens are reaching good quality levels;
+- Tablets and Foldables are becoming more popular;
+- Most companies focus on a Portain experience only, neglecting this growing market;
+- With the increase of the Large Screen market cap, it is a great opportunity for Apps to take advantage of a more complete experience due to the increased screen size; e.g. Gmail (image below);
 
-It was mentioned on Now in Android section, that from Android 14+ it will no longer be possible to force Apps to be used in Portrait or Landscape only more for Large screen devices (Foldables + Tablets)
-
-At the conference, we were able to download the Farfetch Android App and try it out on the newly released Google Tablet. We tried it in Landscape mode, and below is the result we obtained.
+![Gmail in Large Screen landscape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhx53R-GbJpanWgBnk-ZopDV-DYrSj8ypqWsGzm37IRjXUrJ_fnSi4Jk9exynF609G5cZuBqnkhfL1_Zri07W1kr3xOclD-zar0m6ozQY581ym7kHxAfpKjN2iBhwfR61HG2S070A5QTrMUyY5CkE8Jbf3Lb0ZVgs8jKGVuMU-RU-ja5HkGcMJ4Nv2/s711/Gmail,%20Chat,%20and%20Meet%20experience%20on%20Android%20foldable%20devices%20and%20tablets%20.png)
 
 
 
-Letterboxed Farfetch App
+## Letterboxing
 
-Because this is a major concern for us, we discussed this topic at length with a few Googlers, and this is what we found:
+It was mentioned in the [Now in Android](#-now-in-android-letterboxing) section, that from Android 14+ it will no longer be possible to force Apps to be used in Portrait or Landscape only more for Large screen devices (Foldables + Tablets) without being letterboxed.
 
-We asked if there would be a way to “opt-out” being letterboxed in this Transition phase, and the answer was “Maybe” - The Googler didn’t know for sure if that was being worked on, but didn’t seem hopeful;
+![App being letterboxed](https://developer.android.com/static/images/guide/topics/large-screens/app-compatibility/enhanced_letterboxing.png)
 
-Neglecting the potential issues that could arise from these changes - Discussions revealed that there are easier ways to support Landscape. These easier ways (of course) do not take advantage of the increased screen size;
+Because this is an experience-breaking change, this topic was discussed at length with a few Googlers, and this is what was found:
+- We asked if there would be a way to “opt-out” being letterboxed in this Transition phase, and the answer was “Maybe” - The Googler didn’t know for sure if that was being worked on, but didn’t seem hopeful;
+- Neglecting the potential issues that could arise from these changes - Discussions revealed that there are easier ways to support Landscape. These easier ways (of course) do not take full advantage of the increased screen size;
 
-Camera/Foldable Opening
+
+
+## Camera/Foldable Opening
 
 In Foldables with Android 14+ there is a new Camera-related concern, that was described in the Large Screens - Camera/Foldable section. This issue is due to Hardware - Google tried to patch it, but unsuccessfully;
 
-To deal with this issue, google created 2 Support Libraries - CameraX for Jetpack and Camera2 for XML projects (like ours).
+To deal with this issue, Google created 2 Support Libraries - [CameraX](https://developer.android.com/jetpack/androidx/releases/camera) for Jetpack Compose projects and [Camera2](https://developer.android.com/training/camera2) for XML projects.
 
-This affects us directly due to our Card Scanner feature. We use Card IO library. This is a concert, due to the fact that the Card IO library is not being updated, since early 2019;
 
-Activity side-by-size (AKA Embedded Activities)
+
+## Activity side-by-size (AKA Embedded Activities)
 
 The usefulness of this feature can be debated at first because communication between these activities would be limited - thus it would possibly be better to have adjacent fragments;
 
-A possible use case the Googler provided was embedding activities from other providers. A simple use-case for us would be to have a Click-and-Collect feature, where we would embed on the side a Google Maps activity, where we send a deeplink with the geographical location of the place where the user would collect the product;
+A possible use case the Googler provided was embedding activities from other providers. Possible usages:
+- E-Commerce company with item collection on the seller - The user can see the E-Commerce App side-by-side with Google Maps, to show where the item must be picked up;
+- A Job searching company - The users can see an open job in the Job searching App side-by-side with Google Maps, to evaluate the commute that he/she would have to do if working that specific job;
 
-AI
 
-Google is eager to push its AI into the market (even opened an acceleration program for AI companies that will use BardAI).
+## AI
 
-AI will be integrated into multiple Google tools and services - e.g. Google Assistant, Google search, etc.
+Google is eager to push its AI into the market - opened an acceleration program for AI companies that use BardAI.
 
-Accessibility
+AI will be integrated into multiple Google tools and services - e.g. Google Assistant, Google Search, etc.
 
-A lot of emphasis was placed on Accessibility - Talk Back (Android’s Screen reader for visually impaired users), Accessibility Scanner (Google App that can be used to scan Apps, to check for Accessibility-related improvements.), etc.
+## Accessibility
 
-Interesting statistic -  around 80% of Apps have broken deeplinks, and most of them do not explore App Actions yet.
+A lot of emphasis was placed on Accessibility - **Talk Back** (Android’s Screen reader for visually impaired users), **Accessibility Scanner** (Google App that can be used to scan Apps, to check for Accessibility-related improvements.), etc.
 
-Compose
 
-A lot of new Jetpack Compose features and SDKs:
 
-CameraX SDK (for Foldables Support);
+## Compose
 
-New Widgets SDK;
-
-SDK for Cross-Device experiences;
-
-…
+- A lot of new Jetpack Compose features and SDKs:
+- CameraX SDK (for Foldables Support);
+- New Widgets SDK;
+- SDK for Cross-Device experiences;
 
 A lot of effort is being placed into Compose.
 
-Widgets
 
-New Widget library for compose.
 
-Devs report having a lot of pain points when building complex Widgets.
+## Widgets
 
-Cross-device experiences
-
-New SDK was launched to make it easier to share experiences between nearby devices.
+- New Widget library for Compose.
+- Devs report having a lot of pain points when building complex Widgets.
 
 
 
-Tracking
+## Cross-device experiences
 
-A known pain point we have is our tracking architecture. After lengthy discussions with a very experienced Googler (who worked on Meta, Amazon, and now Google), all the companies he worked in, had huge pain points around tracking. I don’t think there is a Utopian approach where we have clean tracking. All we can do is just analyze it in depth and improve where we can.
+A new SDK was launched to make it easier to share experiences between nearby devices.
 
-Others
 
-Themed icons are easy wins, companies are implementing them;
 
-Related to translations validations - Discussed with the team behind Google Sheets, and their will soon implement the History feature for App Scripts;
+### Tracking
 
-Related to Google’s team’s structure/environment - Discussed the company’s values, and conversations moved towards the great read below  
+Tracking is an issue in almost every software. After lengthy discussions with a few Googlers, it seems like tracking is a huge pain for everyone.
+I don’t think there is a Utopian approach where we have clean tracking. All one can do is analyze it in depth and improve where we can.
 
-https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?smid=wa-share
+
+
+# Others
+
+- Themed icons are easy wins, companies are implementing them;
+- Related to Google’s team’s structure/environment - Discussed the company’s values, and conversations moved towards the great read the following [this article](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?smid=wa-share).
