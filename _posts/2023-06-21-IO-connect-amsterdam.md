@@ -42,6 +42,7 @@ Added new sign-in method Passkeys.
 
 
 <video src="https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD" controls="controls" style="max-width: 730px;"></video>
+[![Now In Android](https://www.youtube.com/watch?v=qXhjN66O7Bk.png)](https://www.youtube.com/clip/UgkxQhk0jvL-rDNHt6OaYNC7YHSeFSbc2QaD)
 
 
 ### Activity Embedding
@@ -52,13 +53,13 @@ https://www.youtube.com/clip/UgkxjIS5rPgk-WJ40dx3OJaaA8CZ9EPcQh_P
 
  
 
-Gradle upgrades
+### Gradle upgrades
 
 Gradle upgrades that decrease project build time;
 
 
 
-Large Screens - Letterboxing
+### Large Screens - Letterboxing
 
 Large Screen in Android 14+ will no longer support Portaint-only apps
 
@@ -66,7 +67,7 @@ Large Screen in Android 14+ will no longer support Portaint-only apps
 
    
 
-Large Screens - Camera/Foldable
+### Large Screens - Camera/Foldable
 
 Folding in or out a foldable device while using the camera can lead to issues.
 
@@ -74,11 +75,11 @@ Folding in or out a foldable device while using the camera can lead to issues.
 
 
 
-Building for Android’s Future
+## Building for Android’s Future
 
 
 
-Predictive Back
+### Predictive Back
 
 Added new feature. It can be interesting to use instead of the “Leave the App confirmation dialog”;
 
@@ -86,7 +87,7 @@ Added new feature. It can be interesting to use instead of the “Leave the App 
 
 
 
-Themed Icons
+### Themed Icons
 
 Support for themed App Icons that adjust according to device’s Theme;
 
@@ -94,7 +95,7 @@ Support for themed App Icons that adjust according to device’s Theme;
 
  
 
-Grammatical Inflection AKA Gendered Grammatic
+### Grammatical Inflection AKA Gendered Grammatic
 
 
 
