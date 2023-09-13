@@ -1,11 +1,17 @@
-- name: Documentation skills
+- name: Motivation
+  percentage: 100
+  color: success
+
+- name: Documentation writing
   percentage: 85
   color: info
 
 - name: App Scripts
-  percentage: 70
-  color: success
+  percentage: 75
+  color: primary
 
 - name: Padel
-  percentage: 100
-  color: light
+  percentage: 75
+  color: secondary
+
+
