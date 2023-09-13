@@ -17,5 +17,5 @@ I consider it important to participate in work-related events, for several reaso
 These experiences are pivotal in staying competitive, relevant, and inspired in today's rapidly evolving business landscape.
 
 <div class="row">
-{% include events/event.html title="events" source=site.data.event %}
+{% include events/event.html %}
 </div>
