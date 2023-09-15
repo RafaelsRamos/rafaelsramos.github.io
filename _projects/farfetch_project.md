@@ -30,9 +30,6 @@ Now that the introductions are complete, here are technologies that I've worked 
 | Jira | Issue tracking |
 | Confluence | Documentation |
 
-
 <br>
-
-These were the main technologies that technologies I worked with in this project.
 
 Cheers,<br>Rafael Ramos
