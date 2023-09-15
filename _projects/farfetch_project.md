@@ -45,10 +45,10 @@ Handling asynchronous tasks was made elegant and efficient with RxJava. Its powe
 
 ## Glide
 
-When it came to managing and displaying images, Glide was the go-to solution. Its high-performance image loading capabilities ensured quick and efficient handling of visual content.
+When it came to managing and displaying images, Glide was the go-to solution. Its high-performance image-loading capabilities ensured quick and efficient handling of visual content.
 
-
+<br>
 
 That's a snapshot of the technologies that powered this project. Each component played a vital role in building this robust, user-centric application.
 
-Cheers, Rafael Ramos
+Cheers,<br>Rafael Ramos
