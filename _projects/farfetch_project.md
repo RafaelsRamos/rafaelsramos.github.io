@@ -1,16 +1,16 @@
 ---
 name: Farfetch
 tools: [Kotlin,RxJava,REST,GraphQL]
-image: https://imgur.com/a/PfuhVX0
-description: Farfetch
+image: https://farfetchtechblog.com/fotos/blog/ff_app_19504793495beea5b77b955.jpg
+description: My Farfetch Journey
 ---
 
-## Farfetch Journey
+## My Farfetch Journey
 
 Farfetch is an online luxury fashion platform connecting customers to a global network of boutiques and high-end brands.
 Farfetch stands as a leading player in the online luxury fashion industry, serving a diverse global clientele.
 
-![Farfetch App](https://imgur.com/3h8n0Ob)
+![Farfetch App](https://newrelic.com/sites/default/files/styles/1200w/public/2023-06/cover_1260x600_9971897205f28409f68bb8.jpg?itok=qj-261eP)
 
 My journey as an Android Engineer on this project started in October 2021 and is still ongoing. For the most part it was a great!
 
