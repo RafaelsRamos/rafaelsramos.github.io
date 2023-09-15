@@ -1,7 +1,7 @@
 ---
 name: AtivoBank & Millenium BCP
 tools: [Kotlin,Java,Kotlin Coroutines,Azure DevOps]
-image: https://farfetchtechblog.com/fotos/blog/ff_app_19504793495beea5b77b955.jpg
+image: https://www.brigantia-ecopark.pt/wp-content/uploads/2019/10/color-black-main-version.jpg
 description: My ITSector Journey
 ---
 
@@ -15,6 +15,8 @@ Through ITSector I was allocated as an Android Engineer to develop the Android A
 
 AtivoBank is a Portuguese digital bank founded in 2010, known for its user-friendly online banking services and innovative financial products.
 Millennium BCP, on the other hand, is one of Portugal's largest commercial banks, established in 1985, offering a wide range of traditional banking services, including retail, corporate, and investment banking.
+
+![Ativo Bank](https://ind.millenniumbcp.pt/pt/Particulares/mobile/PublishingImages/2020/app-millennium_07dez20.png)
 
 <br>
 
