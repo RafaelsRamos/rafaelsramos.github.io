@@ -5,7 +5,7 @@ image: https://farfetchtechblog.com/fotos/blog/ff_app_19504793495beea5b77b955.jp
 description: My Farfetch Journey
 ---
 
-# My Farfetch Journey
+# [Farfetch Android](https://play.google.com/store/search?q=farfetch&c=apps)
 
 Farfetch is an online luxury fashion platform connecting customers to a global network of boutiques and high-end brands.
 Farfetch stands as a leading player in the online luxury fashion industry, serving a diverse global clientele.
@@ -24,9 +24,10 @@ Now that the introductions are complete, here are technologies that I've worked 
 | Android Views | User interfaces creation |
 | REST | Main communication style with the backend |
 | GraphQL | Occasional communication style with backend |
-| Gitlab | Version control |
+| Retrofit | Facilitate REST API consumption |
 | RxJava | Asynchronous operations |
 | Glide | Image loading |
+| Gitlab | Version control |
 | Jira | Issue tracking |
 | Confluence | Documentation |
 
