@@ -10,7 +10,7 @@ description: Personal App - Quizea
 The primary goal of Quizea is to facilitate knowledge acquisition by leveraging gamification techniques.
 Learners are presented with tailored quizzes designed to enhance their understanding of specific topics.
 
-<img src="https://imgur.com/ZMwvbdt.jpg" width="40%" height="40%"/>  <img src="https://imgur.com/tboG55h.jpg" width="40%" height="40%"/>
+<img src="https://imgur.com/ZMwvbdt.jpg" width="30%" height="30%"/>  <img src="https://imgur.com/tboG55h.jpg" width="30%" height="30%"/>
 
 <br>
 
