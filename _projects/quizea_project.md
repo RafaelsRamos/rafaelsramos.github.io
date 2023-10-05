@@ -5,7 +5,7 @@ image: https://i.imgur.com/N8OnTfY.jpg
 description: Personal App - Quizea
 ---
 
-# [Quizea](https://play.google.com/store/search?q=farfetch&c=apps)
+# Quizea (Under development)
 
 The primary goal of Quizea is to facilitate knowledge acquisition by leveraging gamification techniques.
 Learners are presented with tailored quizzes designed to enhance their understanding of specific topics.
