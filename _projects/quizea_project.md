@@ -2,7 +2,7 @@
 name: Quizea
 tools: [Kotlin,Coroutines,Jetpack Compose,Github,Room]
 image: https://i.imgur.com/N8OnTfY.jpg
-description: Personal App - Quizea
+description: Personal App
 ---
 
 # [Quizea](https://play.google.com/store/apps/details?id=com.scookie.quizzapp)
