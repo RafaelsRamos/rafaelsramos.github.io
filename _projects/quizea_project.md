@@ -8,7 +8,7 @@ description: Personal App
 # [Quizea](https://play.google.com/store/apps/details?id=com.scookie.quizzapp)
 
 The primary goal of Quizea is to facilitate knowledge acquisition by leveraging gamification techniques.
-Learners are presented with tailored quizzes designed to enhance their understanding of specific topics.
+Learners are presented with tailored quizzes to enhance their understanding of specific topics.
 
 <div style="display: flex;">
   <img src="https://i.imgur.com/sRIOwRR.jpg" style="width: 30%; height: 30%;" />
