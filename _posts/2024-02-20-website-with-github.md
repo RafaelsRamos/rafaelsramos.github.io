@@ -1,8 +1,8 @@
 ---
 title: Speaker - How to build a website with Github Pages
 tags: [Github,Website]
-style: border
-color: dark
+style: fill
+color: success
 description: Workshop on how to build your personal website quickly and easily with Github Pages
 ---
 
