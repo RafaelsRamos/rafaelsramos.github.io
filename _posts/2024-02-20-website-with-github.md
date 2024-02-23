@@ -1,5 +1,5 @@
 ---
-title: Speaker: How to build your Website with Github Pages
+title: Speaker - How to build your Website with Github Pages
 tags: [Github,Website]
 style: fill
 color: primary
