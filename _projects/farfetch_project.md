@@ -1,7 +1,7 @@
 ---
 name: Farfetch
 tools: [Kotlin,RxJava,REST,GraphQL,Jira,Confluence]
-image: https://farfetchtechblog.com/fotos/blog/ff_app_19504793495beea5b77b955.jpg
+image: https://images.squarespace-cdn.com/content/v1/6093ef45fac2184e4ad92bd8/ef8b3f0e-3937-4b45-9c33-7ac6ac761bd3/farfetch-logo.jpg
 description: My Farfetch Journey
 ---
 
