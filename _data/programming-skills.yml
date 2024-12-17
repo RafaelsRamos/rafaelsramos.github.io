@@ -1,23 +1,23 @@
 - name: Clean Code
   percentage: 95
-  color: warning
-
+  color: success
+  
 - name: Kotlin
   percentage: 90
   color: success
 
+- name: Jetpack Compose
+  percentage: 85
+  color: success
+
 - name: Java
   percentage: 75
-  color: danger
-
-- name: Jetpack Compose
-  percentage: 75
-  color: primary
+  color: info
 
 - name: C#
   percentage: 60
-  color: secondary
+  color: warning
 
 - name: JavaScript
   percentage: 60
-  color: info
+  color: warning
