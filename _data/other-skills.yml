@@ -1,17 +1,27 @@
-- name: Motivation
-  percentage: 100
+- name: Architecture Design
+  percentage: 90
+  color: success
+
+- name: Problem Solving
+  percentage: 90
   color: success
 
 - name: Documentation writing
   percentage: 85
   color: info
 
-- name: App Scripts
-  percentage: 75
+- name: Code Review
+  percentage: 85
+  color: info
+
+- name: Testing
+  percentage: 80
   color: primary
 
-- name: Padel
-  percentage: 75
-  color: secondary
+- name: Leadership & Mentoring
+  percentage: 80
+  color: primary
 
-
+- name: CI/CD Knowledge
+  percentage: 70
+  color: info
