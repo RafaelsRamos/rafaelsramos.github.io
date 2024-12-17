@@ -20,7 +20,7 @@
 
 - name: Testing
   percentage: 80
-  color: info
+  color: warning
 
 - name: CI/CD Knowledge
   percentage: 70
