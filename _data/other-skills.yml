@@ -6,22 +6,22 @@
   percentage: 90
   color: success
 
+- name: Leadership & Mentoring
+  percentage: 90
+  color: success
+
 - name: Documentation writing
   percentage: 85
-  color: info
+  color: primary
 
 - name: Code Review
   percentage: 85
-  color: info
+  color: primary
 
 - name: Testing
   percentage: 80
-  color: primary
-
-- name: Leadership & Mentoring
-  percentage: 80
-  color: primary
+  color: info
 
 - name: CI/CD Knowledge
   percentage: 70
-  color: info
+  color: danger
