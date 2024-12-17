@@ -12,11 +12,11 @@
 
 - name: Documentation writing
   percentage: 85
-  color: primary
+  color: info
 
 - name: Code Review
   percentage: 85
-  color: primary
+  color: info
 
 - name: Testing
   percentage: 80
@@ -24,4 +24,4 @@
 
 - name: CI/CD Knowledge
   percentage: 70
-  color: danger
+  color: warning
