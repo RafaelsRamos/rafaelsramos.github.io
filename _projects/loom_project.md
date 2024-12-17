@@ -1,8 +1,8 @@
 ---
-name: POS Integration
+name: Loom
 tools: [Kotlin, Jetpack Compose, REST, Jira, Confluence, Retrofit, Coin, Hilt]
 image: https://media.licdn.com/dms/image/v2/D4D0BAQHpE7CqHBGSFA/company-logo_200_200/company-logo_200_200/0/1693864709299/loomtech_logo?e=2147483647&v=beta&t=fanyEH1NTG7BNIpx_zefdaOn3zdImKDCvu7jsDqW4gM
-description: POS Integration Development Journey
+description: My journey in Loom
 ---
 
 # Software for POS devices
